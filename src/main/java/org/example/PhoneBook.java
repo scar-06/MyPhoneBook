@@ -132,23 +132,5 @@ public class PhoneBook {
             }
 
         }
-
-//            // Try to parse the input as a long
-//            try {
-//                long number = Long.parseLong(nameOrNum);
-//                System.out.println("You entered a long: " + number);
-//            } catch (NumberFormatException e) {
-//                // If it's not a valid long, treat it as a string
-//                System.out.println("You entered a string: " + nameOrNum);
-//            }
-
-
-//        new variable for upcoming contacts
-//        ContactName contactName = new ContactName();
-//
-//        public void put(ContactName., V value) {
-//            map.computeIfAbsent(key, k -> new ArrayList<>()).add(value);
-//        }
-
     }
 }
