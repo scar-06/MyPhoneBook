@@ -33,6 +33,7 @@ public class PhoneBook {
                 myContacts.addNumber(name, numb);
 
 
+                // utilise the following next
                 System.out.println("Contact saved! \nName: " + name + "\nNumber: " + numb);
                 System.out.println("\n");
                 System.out.println("1: Main Menu \n2: Quit");
